@@ -1,0 +1,8 @@
+2011-08-02 12:20:57,387 INFO Thread-1 Running
+2011-08-02 12:20:59,301 INFO MainThread Would like to send sd
+2011-08-02 12:21:18,427 INFO MainThread Sending request for username sd
+2011-08-02 12:21:18,442 WARNING Thread-1 Server is not accepting connections
+2011-08-02 12:21:18,442 WARNING Thread-1 Response error from server
+2011-08-02 12:21:18,442 INFO Thread-1 Socket closed
+2011-08-02 12:21:21,314 INFO MainThread Would like to send asfd
+2011-08-02 12:21:21,315 INFO MainThread Sending request for username asfd
